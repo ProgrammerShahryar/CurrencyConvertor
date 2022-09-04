@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="text">Enter the  amount you want to convert</string>
+    <string name="hint">Amount in RM</string>
+    <string name="button">Convert</string>
+    <string name="a" />
+</resources>
